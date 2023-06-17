@@ -7,7 +7,10 @@ A tutorial at CVPR2023, Vancouver, June 19th from 13:30 to 17:00
 
 ## Webpage
 <p align="center">
-<img src="./data/jason-clemons.jpg" width="200" title="Jason Clemons">
+<img src="./data/maying.png" width="150" title="Maying Shen">
+<img src="./data/clemons.jpg" width="150" title="Jason Clemons">
+<img src="./data/hongxu.png" width="150" title="Jason Clemons">
+<img src="./data/Pavlo_Molchanov.jpg" width="150" title="Jason Clemons">
 </p>
 
 
