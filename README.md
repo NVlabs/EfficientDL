@@ -6,13 +6,6 @@
 A tutorial at CVPR2023, Vancouver, June 19th from 13:30 to 17:00
 
 ## Webpage
-<p align="center">
-<img src="./data/maying.png" width="125" height="150" title="Maying Shen">
-<img src="./data/clemons.jpg" width="125"  height="150" title="Jason Clemons">
-<img src="./data/hongxu.png" width="125" height="150" title="Jason Clemons">
-<img src="./data/Pavlo_Molchanov.jpg" width="125" height="150" title="Jason Clemons">
-</p>
-
 
 
 
@@ -27,11 +20,20 @@ This tutorial focuses on describing techniques to allow deep learning practition
 
 
 ## Speakers
+<p align="center">
+<img src="./data/maying.png" width="125" height="150" title="Maying Shen">
+<img src="./data/clemons.jpg" width="125"  height="150" title="Jason Clemons">
+<img src="./data/hongxu.png" width="125" height="150" title="Jason Clemons">
+<img src="./data/Pavlo_Molchanov.jpg" width="125" height="150" title="Jason Clemons">
+</p>
+
 
 ## Organizers
-Maying Shen, Senior Research Engineer
-Jason Clemons, Senior Research Scientist
-Hongxu (Danny) Yin, Senior Research Scientist
-Pavlo Molchanov, Principal Research Scientist
-Jose M. Alvarez, Director, Applied research 
-Jan Kautz, VP of research
+<ul> 
+<li>Maying Shen, Senior Research Engineer
+<li>Jason Clemons, Senior Research Scientist
+<li>Hongxu (Danny) Yin, Senior Research Scientist
+<li>Pavlo Molchanov, Principal Research Scientist
+<li>Jose M. Alvarez, Director, Applied research 
+<li>Jan Kautz, VP of research
+</ul> 
