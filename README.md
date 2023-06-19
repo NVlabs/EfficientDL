@@ -19,7 +19,7 @@ This tutorial focuses on describing techniques to allow deep learning practition
 - Research overview of recent techniques. In the last part, we will focus on recent advanced techniques for post training model optimization including pruning, quantization, model distillation or NAS among others.</li>
 
 ## Program
-
+<p align="center">				Monday, June 19th, East hall 11, 1:30pm to 5:00pm. Vancouver Convention Center. Local time, Vancouver (PST) </p>
 <table>
   <tr>
     <td>13:30</td><td>13:35</td><td>Opening Remarks</td>
