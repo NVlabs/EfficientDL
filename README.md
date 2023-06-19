@@ -18,8 +18,20 @@ This tutorial focuses on describing techniques to allow deep learning practition
 - Existing tools for model acceleration. In this part we will focus on existing tools to accelerate a trained neural network on GPU devices. We will particularly discuss operation folding, TensorRT, ONNX graph optimization, sparsity.</li>
 - Research overview of recent techniques. In the last part, we will focus on recent advanced techniques for post training model optimization including pruning, quantization, model distillation or NAS among others.</li>
 
+## Program
+<ul> 
+<li>Jason Clemons</li>  
+foundations of GPU architecture, hardware perspective.
+<li>Pavlo Molchanov</li>
+Algorithmic views on GPU compute, how to maximize performance
+<li>Maying Shen </li>
+Sparsity in DNN and model compression
+<li>Hongxu (Danny) Yin</li>
+Recent trends on transformer acceleration, data efficiency and security,
+</ul> 
 
-## Speakers
+
+## Instructors
 <p align="center">
 <img src="./data/maying.png" width="125" height="150" title="Maying Shen">
 <img src="./data/clemons.jpg" width="125"  height="150" title="Jason Clemons">
