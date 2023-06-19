@@ -19,6 +19,18 @@ This tutorial focuses on describing techniques to allow deep learning practition
 - Research overview of recent techniques. In the last part, we will focus on recent advanced techniques for post training model optimization including pruning, quantization, model distillation or NAS among others.</li>
 
 ## Program
+
+<table>
+  <tr>
+    <td>13:30</td><td>13:35</td><td>Opening Remarks</td>
+    <td>13:35</td><td>14:15</td><td>Jason Clemons</td>
+    <td>14:15</td><td>15:00</td><td>Pavlo Molchanov</td>
+    <td>15:00</td><td>15:30</td><td>Coffee Break</td>
+     <td>15:30</td><td>16:15</td><td>MAying Shen</td>
+     <td>16:15</td><td>17:00</td><td>Hongxu (Danny) Yin</td>
+  </tr>
+</table>
+
 <ul> 
 <li>Jason Clemons</li>  
 foundations of GPU architecture, hardware perspective.
@@ -36,7 +48,7 @@ Recent trends on transformer acceleration, data efficiency and security,
 <img src="./data/maying.png" width="125" height="150" title="Maying Shen">
 <img src="./data/clemons.jpg" width="125"  height="150" title="Jason Clemons">
 <img src="./data/hongxu.png" width="125" height="150" title="Jason Clemons">
-<img src="./data/Pavlo_Molchanov.jpg" width="125" height="150" title="Jason Clemons">
+<img src="./data/Pavlo_Molchanov.png" width="125" height="150" title="Jason Clemons">
 </p>
 
 
