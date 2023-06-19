@@ -23,10 +23,18 @@ This tutorial focuses on describing techniques to allow deep learning practition
 <table>
   <tr>
     <td>13:30</td><td>13:35</td><td>Opening Remarks</td>
+    </tr><tr>
     <td>13:35</td><td>14:15</td><td>Jason Clemons</td>
+    </tr>
+    <tr>
     <td>14:15</td><td>15:00</td><td>Pavlo Molchanov</td>
+    </tr>
+    <tr>
     <td>15:00</td><td>15:30</td><td>Coffee Break</td>
+    </tr><tr>
      <td>15:30</td><td>16:15</td><td>MAying Shen</td>
+  </tr>
+     <tr>
      <td>16:15</td><td>17:00</td><td>Hongxu (Danny) Yin</td>
   </tr>
 </table>
