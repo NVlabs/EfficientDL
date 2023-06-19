@@ -24,31 +24,22 @@ This tutorial focuses on describing techniques to allow deep learning practition
   <tr>
     <td>13:30</td><td>13:35</td><td>Opening Remarks</td>
     </tr><tr>
-    <td>13:35</td><td>14:15</td><td>Jason Clemons</td>
+    <td>13:35</td><td>14:15</td><td>Jason Clemons</td><td>foundations of GPU architecture, hardware perspective.</td>
     </tr>
     <tr>
-    <td>14:15</td><td>15:00</td><td>Pavlo Molchanov</td>
+    <td>14:15</td><td>15:00</td><td>Pavlo Molchanov</td><td>Algorithmic views on GPU compute, how to maximize performance</td>
     </tr>
     <tr>
-    <td>15:00</td><td>15:30</td><td>Coffee Break</td>
+    <td>15:00</td><td>15:30</td><td>Coffee Break</td><td></td>
     </tr><tr>
-     <td>15:30</td><td>16:15</td><td>MAying Shen</td>
+     <td>15:30</td><td>16:15</td><td>MAying Shen</td><td>Sparsity in DNN and model compression</td>
   </tr>
      <tr>
-     <td>16:15</td><td>17:00</td><td>Hongxu (Danny) Yin</td>
+     <td>16:15</td><td>17:00</td><td>Hongxu (Danny) Yin</td><td>Recent trends on transformer acceleration, data efficiency and security,</td>
   </tr>
 </table>
 
-<ul> 
-<li>Jason Clemons</li>  
-foundations of GPU architecture, hardware perspective.
-<li>Pavlo Molchanov</li>
-Algorithmic views on GPU compute, how to maximize performance
-<li>Maying Shen </li>
-Sparsity in DNN and model compression
-<li>Hongxu (Danny) Yin</li>
-Recent trends on transformer acceleration, data efficiency and security,
-</ul> 
+
 
 
 ## Instructors
