@@ -3,7 +3,7 @@
   # Full-Stack, GPU-based Acceleration of Deep Learning
   
 </div>
-A tutorial at CVPR2023, Vancouver, June 19th from 13:30 to 17:00
+A tutorial at CVPR2023, Vancouver, June 19th from 13:30 to 17:00, East Hall 11, Vancouver Convention Center.
 
 ## Webpage
  [Visit our webpage](https://nvlabs.github.io/EfficientDL/)
@@ -19,7 +19,7 @@ This tutorial focuses on describing techniques to allow deep learning practition
 - Research overview of recent techniques. In the last part, we will focus on recent advanced techniques for post training model optimization including pruning, quantization, model distillation or NAS among others.</li>
 
 ## Program
-<p align="center">				Monday, June 19th, East hall 11, 1:30pm to 5:00pm. Vancouver Convention Center. Local time, Vancouver (PST) </p>
+<p align="center">				Monday, June 19th, c 1:30pm to 5:00pm. Vancouver Convention Center. Local time, Vancouver (PST) </p>
 <table>
   <tr>
     <td>13:30</td><td>13:35</td><td>Opening Remarks</td>
@@ -27,7 +27,7 @@ This tutorial focuses on describing techniques to allow deep learning practition
     <td>13:35</td><td>14:15</td><td>Jason Clemons</td><td>foundations of GPU architecture, hardware perspective.</td>
     </tr>
     <tr>
-    <td>14:15</td><td>15:00</td><td>Pavlo Molchanov</td><td>Algorithmic views on GPU compute, how to maximize performance</td>
+    <td>14:15</td><td>15:00</td><td>Pavlo Molchanov</td><td>DNN Performance optimization: How to achieve more with less cost, software perspective</td>
     </tr>
     <tr>
     <td>15:00</td><td>15:30</td><td>Coffee Break</td><td></td>
