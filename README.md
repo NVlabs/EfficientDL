@@ -6,8 +6,8 @@
 A tutorial at CVPR2023, Vancouver, June 19th from 13:30 to 17:00
 
 ## Webpage
-
-
+ [Visit our webpage](https://nvlabs.github.io/EfficientDL/)
+ 
 
 ## Description
 This tutorial focuses on describing techniques to allow deep learning practitioners to accelerate the training and inference of large deep networks while also reducing memory requirements across a spectrum of off-the-shelf hardware for important applications such as autonomous driving and large language models. Topics include, but are not limited to:
